@@ -1,2 +1,6 @@
 # MR_dilution_phantom
 Preclinical phantom for quantitative solution comparison in a small animal magnetic resonance imaging (MRI) machine
+
+These are the files needed to assemble a preclinical phantom for quantitative solution comparison in a small animal magnetic resonance imaging (MRI) machine. In order to use, five solutions of interest must be prepared and placed inside micro-centrifuge tubes. These tubes are then placed inside the phantom. The phantom allows for filling of water around the samples, which improves shimming and reduces artifacts. To fill with water, a Luer Lock fitting must be attached to the provided hole in the center of the phantom bottom. A syringe can then be used to fill the phantom with water around the inserted samples. Sample applications of this type of phantom, include imaging serial dilutions of contrast agents like gadolinium (Gd) or examining solutions of different species for spectral separation. This phantom was designed around a specific type of microcentrifuge tube and MR coil, but the design can be altered to fit larger tubes and coils. Included here are the CAD files for design alteration, the STL files for 3D printing and the DXF files for laser cutting the gaskets.
+
+![](https://morgridge.org/wp-content/uploads/MR_Phantom.jpg)
